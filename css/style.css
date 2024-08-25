@@ -1,0 +1,17 @@
+body {
+	font-family: Inter, Roboto, "Helvetica Neue", "Arial Nova", "Nimbus Sans", Arial, sans-serif;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+	body {
+		scroll-behavior: smooth;
+	}
+}
+
+h1 {
+	color: rebeccapurple;
+}
+
+p {
+	color: cadetblue;
+}

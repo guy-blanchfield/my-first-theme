@@ -1,0 +1,16 @@
+{
+	"name": "my-first-theme",
+	"version": "1.0.0",
+	"description": "My First WP Theme",
+	"main": "index.js",
+	"scripts": {
+		"start": "wp-scripts start",
+		"build": "wp-scripts build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@wordpress/scripts": "^28.6.0"
+	}
+}
